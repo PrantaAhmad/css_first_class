@@ -1,0 +1,37 @@
+caption {color: purple;;
+font-size: large;
+font-weight: 900;}
+td{color: black;}
+tr{background-color:#FF2400 ;}
+th{color: white;}
+.row1{background-color: yellow;}
+.row2{
+    background-color: teal;
+}
+.row3{
+    background-color: thistle;
+}
+.row4{background-color: tomato;}
+.row5{background-color: turquoise;}
+.row6{background-color: violet;}
+.row7{background-color: wheat;}
+.row8{background-color: white;}
+.row9{background-color: whitesmoke;}
+.row10{background-color: yellow;}
+.row11{background-color: yellowgreen;}
+.row12{background-color: green;}
+.row13{background-color: coral;}
+.row14{background-color: cornflowerblue;}
+.row15{background-color: darkkhaki;}
+.row16{background-color: darkturquoise;}
+.row17{background-color: fuchsia;}
+.row18{background-color: gray;}
+.row19{background-color: indianred;}
+.row20{background-color: lightcoral;}
+.para{
+    color: royalblue;
+}
+.add{font-weight: 700;
+color: saddlebrown;}
+.CapTag{color: snow;
+font-weight: 800;}
